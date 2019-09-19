@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imige/21.jpg</file>
+        <file>imige/118.png</file>
+        <file>imige/actionIcons_012.png</file>
+        <file>imige/actionIcons_013.png</file>
+        <file>imige/actionIcons_014.png</file>
+        <file>imige/actionIcons_015.png</file>
+        <file>imige/actionIcons_016.png</file>
+        <file>imige/back.png</file>
+        <file>imige/back1.png</file>
+        <file>imige/button-foward.png</file>
+        <file>imige/button-rewind.png</file>
+        <file>imige/exit.jpg</file>
+        <file>imige/find.png</file>
+        <file>imige/front.png</file>
+        <file>imige/front1.png</file>
+        <file>imige/Gnome-Audio-Volume-High-64.png</file>
+        <file>imige/Gnome-Audio-Volume-Low-64.png</file>
+        <file>imige/Gnome-Audio-Volume-Medium-64.png</file>
+        <file>imige/Gnome-Audio-Volume-Muted-64.png</file>
+        <file>imige/jinyin.png</file>
+        <file>imige/mulu.png</file>
+        <file>imige/pause.png</file>
+        <file>imige/pause1.png</file>
+        <file>imige/play.png</file>
+        <file>imige/play1.png</file>
+        <file>imige/shengyin.png</file>
+        <file>imige/th.gif</file>
+        <file>imige/Thumbs.db</file>
+        <file>imige/window.png</file>
+    </qresource>
+</RCC>
